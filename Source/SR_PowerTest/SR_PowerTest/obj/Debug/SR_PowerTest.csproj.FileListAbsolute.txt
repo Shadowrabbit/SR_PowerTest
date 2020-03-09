@@ -1,0 +1,5 @@
+E:\steam\steamapps\common\RimWorld\Mods\SR_PowerTest\Assemblies\SR_PowerTest.dll
+E:\steam\steamapps\common\RimWorld\Mods\SR_PowerTest\Assemblies\SR_PowerTest.pdb
+E:\steam\steamapps\common\RimWorld\Mods\SR_PowerTest\Source\SR_PowerTest\SR_PowerTest\obj\Debug\SR_PowerTest.csproj.CoreCompileInputs.cache
+E:\steam\steamapps\common\RimWorld\Mods\SR_PowerTest\Source\SR_PowerTest\SR_PowerTest\obj\Debug\SR_PowerTest.dll
+E:\steam\steamapps\common\RimWorld\Mods\SR_PowerTest\Source\SR_PowerTest\SR_PowerTest\obj\Debug\SR_PowerTest.pdb
